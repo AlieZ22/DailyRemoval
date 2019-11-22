@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/1.txt</file>
+        <file>res/bear.png</file>
+        <file>res/beijingkuai.png</file>
+        <file>res/cg_1.png</file>
+        <file>res/cg_2.png</file>
+        <file>res/cg_3.png</file>
+        <file>res/dongwu.png</file>
+        <file>res/Eagel.png</file>
+        <file>res/fox.png</file>
+        <file>res/frog.png</file>
+        <file>res/hema.png</file>
+        <file>res/hippo.png</file>
+        <file>res/huli.png</file>
+        <file>res/ji.png</file>
+        <file>res/niao.png</file>
+        <file>res/qinwa.png</file>
+        <file>res/texture.png</file>
+        <file>res/xiong.png</file>
+        <file>res/xuekuai.png</file>
+        <file>res/youxi_beijing.png</file>
+    </qresource>
+</RCC>

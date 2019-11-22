@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>soundOff.png</file>
+        <file>soundOn.png</file>
+        <file>title.png</file>
+        <file>start.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>res/bear.png</file>
+        <file>res/beijingkuai.png</file>
+        <file>res/dongwu.png</file>
+        <file>res/Eagel.png</file>
+        <file>res/fox.png</file>
+        <file>res/frog.png</file>
+        <file>res/hema.png</file>
+        <file>res/hippo.png</file>
+        <file>res/huli.png</file>
+        <file>res/ji.png</file>
+        <file>res/niao.png</file>
+        <file>res/qinwa.png</file>
+        <file>res/texture.png</file>
+        <file>res/xiong.png</file>
+        <file>res/xuekuai.png</file>
+        <file>res/youxi_beijing.png</file>
+        <file>res/bing1.png</file>
+        <file>res/bing2.png</file>
+        <file>res/bear2.png</file>
+        <file>res/bear3.png</file>
+        <file>res/chic1.png</file>
+        <file>res/chic2.png</file>
+        <file>res/chic3.png</file>
+        <file>res/Eagel2.png</file>
+        <file>res/Eagel3.png</file>
+        <file>res/fox2.png</file>
+        <file>res/fox3.png</file>
+        <file>res/frog2.png</file>
+        <file>res/frog3.png</file>
+        <file>res/hippo2.png</file>
+        <file>res/hippo3.png</file>
+        <file>res/maotouying.png</file>
+        <file>res/animation.png</file>
+        <file>dis.gif</file>
+    </qresource>
+</RCC>
